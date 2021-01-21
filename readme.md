@@ -10,7 +10,7 @@
        
 
   <p align="center">
-    <a href="https://github.com/Tonybsilva-dev/Barber-App"><strong>Explore the course »</strong></a>
+    <a href="https://github.com/Tonybsilva-dev/NextJs-course/wiki"><strong>Explore the course »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Tonybsilva-dev/Design-System">View Advanced Example</a>
