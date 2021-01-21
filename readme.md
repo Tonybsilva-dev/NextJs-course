@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Tonybsilva-dev/Barber-App">
-    <img src="https://miro.medium.com/max/2400/1*rLE1jm-KN5RjNsHmMfQfag.png" alt="Logo" width="400" height="400">
+    <img src="https://miro.medium.com/max/2400/1*rLE1jm-KN5RjNsHmMfQfag.png" alt="Logo" width="300" height="400">
   </a>
 
   <h3 align="center">A NextJs Introduction</h3>
